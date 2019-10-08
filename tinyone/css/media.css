@@ -1,0 +1,59 @@
+/*-------------  sticky footer  ---------------------*/
+
+@media  screen and (min-width: 768px) {
+	
+	 html, body {
+        height: 100%;
+    }
+	
+    #page-wrap {
+        min-height: 100%;
+        margin-bottom: -333px;
+    }
+	
+	
+    #page-wrap:after {
+        content: "";
+        display: block;
+        height: 333px;
+    }
+	
+    footer {
+        min-height: 333px;
+    }
+
+}
+
+@media  screen and (min-width: 992px) {
+
+    .navbar {
+        position: relative;
+        background-color: #fcdb00;
+        padding-left: 0 ;
+        padding-right: 0 ;
+    }
+
+
+    .navbar-nav li:not(:last-child) {
+        margin-right: 55px;
+    }
+
+
+    .nav-link {
+        color: #010101!important;
+    }
+
+
+    .nav-link.active {
+        color: #000000!important;
+    }
+
+
+    .nav-link:after {
+        width: 0;
+    }
+
+    .nav-link.active:after {
+        background-color: black;
+    }
+}

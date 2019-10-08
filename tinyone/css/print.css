@@ -1,0 +1,9 @@
+@media print {
+    .hide-print {
+        display: none;
+    }
+
+    .carousel {
+        padding: 0;
+    }
+}

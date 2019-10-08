@@ -1,0 +1,29 @@
+@media screen and (min-width: 768px) {
+
+
+    .icon__link:hover ,
+    .social__link:hover ,
+    .address__link:hover,
+    .list__link:hover {
+         color: #7d7a7a!important;
+     }
+
+
+    .features__link:hover,
+    .features__sub-title:hover {
+        color: #c8ae02!important;
+    }
+
+
+    .nav-link:not(.active):hover:after {
+        width: 100%;
+        background-color: black;
+        height: 2px;
+    }
+
+
+    .btn-yellow:not(:disabled):not(.loading):hover {
+        box-shadow: 0 0 10px rgb(252, 219, 0);
+    }
+
+}

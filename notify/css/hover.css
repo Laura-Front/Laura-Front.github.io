@@ -1,0 +1,21 @@
+@media screen and (min-width: 768px) {
+
+    .header__list a:hover,
+    .social-list a:hover {
+        background-color: #2ecc71;
+        color: #FFFFFF;
+    }
+
+    .btn-submit:not(:disabled):not(.loading):hover {
+        background-color: #0fb355;
+    }
+
+    .pictures__link:hover:before {
+        opacity: 1;
+    }
+
+    .footer__link:hover {
+        color: #2ecc71;
+    }
+
+}

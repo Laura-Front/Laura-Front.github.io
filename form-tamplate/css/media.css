@@ -1,0 +1,9 @@
+@media screen and (max-height: 700px) {
+
+    .container {
+        align-items: flex-start;
+        margin-top: 20px;
+    }
+
+
+}
