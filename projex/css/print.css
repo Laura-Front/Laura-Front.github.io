@@ -1,0 +1,56 @@
+@media print {
+	
+	 .pg-brk {
+         page-break-after: always;
+    } 
+	
+	
+	.container {
+		width: 100%;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	
+    .print,
+    .menu li ,
+    .arrow:after ,
+    .icon-box:before {
+        display: none;
+    }
+	
+	.services-container article,
+	.news-container article	{
+		float: none;
+        margin: 0 auto;
+        display: block;
+		margin-bottom: 50px;
+	}
+	
+	.services-container article {
+		width: 100%;
+	}
+
+    .info-box {
+        display: block;
+        width: 500px;
+        margin: 0 auto;
+        text-align: justify;
+    }
+	
+	.services,
+	.news	{
+    padding-bottom: 0;
+	}
+
+    .info ,
+    .info-box-title {
+        text-align: center;
+        width: 100%;
+    }
+    .logos {
+        margin: 0 auto;
+        display: table;
+        float: none;
+    }
+
+}
