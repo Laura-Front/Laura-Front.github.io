@@ -8,6 +8,7 @@ var   $blockShow = $('.notify-block'),
       $scrollbtn = $('.scrollup-btn');
 
 
+// setTimeout
 
    $scrollbtn.css('bottom', $blockShow.outerHeight() + 20);
 // setTimeout
@@ -25,8 +26,11 @@ $closeBtn.click(function () {
         $scrollbtn.css('bottom', '25px' );
     });
     return false;
+<<<<<<< HEAD
 
 });
+=======
+>>>>>>> 792bd72032acd24b6207a09e16e26a5f3a58bfef
 
 
 // contact-link to contact us
