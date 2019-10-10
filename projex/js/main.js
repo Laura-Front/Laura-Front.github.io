@@ -5,9 +5,10 @@ var   $blockShow = $('.notify-block'),
       $second = $('.bg-second'),
       $third = $('.bg-third'),
       $menu = $('.menu'),
-      $scrollbtn = $(".scrollup-btn");
+      $scrollbtn = $('.scrollup-btn');
 
 
+// setTimeout
 
     setTimeout(function () {
 
@@ -19,19 +20,24 @@ var   $blockShow = $('.notify-block'),
 
     $blockShow.stop().slideUp("slow" , function () {
         $(this).remove();
+        $scrollbtn.css('bottom', '25px' );
     });
-        // return false;
+    return false;
 
     });
 
+// contact-link to contact us
 
     $('.contact-link').click(function () {
 
-        $("html, body").stop().animate({ scrollTop: $('.contacts').offset().top}, 1000);
+        $("html, body").stop().animate({
+            scrollTop: $('.contacts').offset().top
+        }, 1000);
         return false;
 
     });
     
+// responsive Burger
 
     $burger.click(function () {
 
@@ -41,12 +47,15 @@ var   $blockShow = $('.notify-block'),
         $menu.stop().slideToggle("slow");
     });
 
+// scrollupBtnShow
 
     function scrollupBtnShow() {
         var scrollTop = $(window).scrollTop();
-        if (scrollTop >= $(window).height() / 2) {
-            $scrollbtn.removeClass("hide");
-        } else {
+
+        if ((scrollTop >= $(window).height() / 2)) {
+           $scrollbtn.removeClass("hide");
+        }
+        else {
             $scrollbtn.addClass("hide");
         }
     }
