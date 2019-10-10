@@ -1,0 +1,177 @@
+@charset "utf-8";
+/* CSS Document */
+
+.main_border {
+border:1px solid #000000;
+}
+
+body {
+background-color:#CCCCCC;
+font-family:Arial Armenian;
+ font-size:16px; 
+}
+
+.top {
+border-bottom:1px solid #000000;
+}
+
+.left {
+background-color:#f6f6f6; 
+border-right:1px solid #424242;
+}
+
+p {
+font-family:Arial Armenian;
+ font-size:15px; 
+margin:10px;
+/*text-indent: 20px;  
+letter-spacing: 1px;*/
+}
+
+p a {
+color:#424242;
+ text-decoration: none;
+ }
+ 
+a:hover {
+text-decoration: underline;
+}
+
+p img {
+ margin:10px;
+}
+
+pre {
+margin:15px;
+}
+
+dl {
+margin:15px;
+}
+
+.lesson {
+border:1px solid #cccccc;
+ width:90%;
+}
+
+.lesson_title {
+background-color:#f6f6f6;
+}
+
+.lesson_name {
+font-weight:bold; 
+margin-top:5px;
+ margin-bottom:5px;
+}
+
+.lesson_adds {
+font-size:13px; 
+margin-top:5px; 
+margin-bottom:5px;
+ color:#424242;
+}
+
+.lesson_view{
+font-size:13px;
+color:#666666;
+}
+
+.left_title {
+margin-top :1px;
+margin-left : 5%;
+margin-right :5%;
+font-weight: bold;
+text-align: center;
+color:#424242;
+border-left:4px solid #cc0000;
+border-bottom:1px solid #424242;
+}
+.left_link {
+
+color:#424242;
+font-size:15px;
+margin-top:10px;
+margin-bottom:10px;
+border-bottom-width: thin;
+border-bottom-style: dotted;
+border-bottom-color:  #cc0000;
+
+}
+
+.left_li a {
+color:#424242;
+ text-decoration: none;
+ }
+a:hover {
+text-decoration: underline;
+}
+.top_title {
+border-bottom:1px solid #424242;
+border-top:4px solid #c11f36;
+border-right :1px solid #424242;
+background-color:#f6f6f6;
+background-image:url(img/next.gif);
+background-position:left;
+background-repeat:no-repeat;
+padding-left:15px;
+}
+.top_title a { 
+color:#424242;
+text-decoration: none;
+}
+.top_t {
+border-bottom:1px solid #424242;
+border-top:4px solid #9DE5E2;
+border-right :1px solid #424242;
+background-color:#f6f6f6;
+font-family:Arial Armenian;
+font-size:16px; 
+margin:15px;
+background-image:url(img/next.gif);
+background-position:left;
+background-repeat:no-repeat;
+padding-left:15px;
+}
+
+.top_t  a {
+color:#424242;
+ text-decoration: none;
+}
+
+h3 {
+/*background-color: #f6f6f6;*/
+color:#cc0000;
+text-align:center;
+
+}
+
+u { 
+font-weight: bold;
+text-indent: 20px;
+}
+
+.havel{
+font-size:17px;
+font-weight:bold;
+color:#cc0000;
+text-align:center;
+background-color: #f6f6f6;
+}
+.mini {
+border: 1px solid #000000;
+margin-top:5px;
+}
+
+#picture {
+
+float:left;
+width: 230px;
+}
+.search_t{
+font-size:13px;
+}
+.search_b{
+border:1px solid #cccccc;
+background-color:#f6f6f6;
+margin-top:6px;
+}
