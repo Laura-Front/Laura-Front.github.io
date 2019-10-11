@@ -1,0 +1,65 @@
+﻿ARAGADRANQ_1 
+<p >
+Oգտագործել փաստաթղթի ստեղծման համար անհրաժեշտ և պարտադիր տեգերը, ինչպես նաև ֆիզիկական և տրամաբանական ոճերը:
+
+Օգտվելով ցուցակների ստեղծման տեգերի հայտարարման միջոցներից, ինչպես նաև նրանց հատկանիշերի պահանջվող արժեքներից՝ կատարել առաջադրանքները (ստանալ վեբ էջ): 
+<br>   <br> 
+Առաջադրանք 1
+<img src="arag/Araj1.jpg"  ><br>
+ Առաջադրանք 2<br>
+<img src="arag/Araj2.jpg"  ><br>
+Առաջադրանք 3 <br>
+<img src="arag/ArajCucak.jpg"  >
+</p>
+
+
+
+ARAGADRANQ_2
+<p>Կատարել առաջադրանքները` օգտվելով աղյուսակների նախագծմանև նկարների տեղադրման տեգերից, ինչպես նաև ներբեռնվող ֆայլերի տեղադրման միջոցներից, ստանալ ներկայացված վեբ էջերը։
+<br>առաջադրանք 1
+<br>
+<img src="arag/ArajIMG2.jpg">
+<br>
+առաջադրանք 2
+<br><img src="arag/ArajTable3.jpg">
+ </p>
+
+
+
+ARAGADRANQ_3
+<p>Կատարել առաջադրանքները` օգտվելով աղյուսակների նախագծմանև նկարների տեղադրման տեգերից, ինչպես նաև ներբեռնվող ֆայլերի տեղադրման միջոցներից, ստանալ ներկայացված վեբ էջերը։<br>
+<br>Առաջադրանք 1<br><img src="arag/ArajTable1.jpg"> <br>Առաջադրանք 2<br><img src="arag/ArajTable2.jpg" ><br>Առաջադրանք 3<br><img src="arag/ArajTable4.jpg"> </p>
+
+ARAGADRANQ-4
+<p>Նախապես ստեղծելով  էջի մեջ ընդգրկված անկախ փաստաթղթերը( html էջերը) Պատրաստել ներկայացված  ֆրեյմների հավաքածուները  և անվանել համապատասղանաբար frameset1.html  frameset2.html, frameset3.html<br><br > <img src="arag/freym_rows.jpg">
+<br>
+ <img src="arag/freym_rows_cols.jpg">
+<br>
+ <img src="arag/elearningi_hamr3.jpg" >
+<br>
+<img src="arag/formaner_aragadranq.jpg"> 
+<br>
+<img src="arag/fieldset.JPG">
+<br>
+<img src="arag/poqr_forma.JPG"> 
+<br>
+</p>
+
+
+
+ARAGADRANQ-5
+<p>
+Էլեմենտը կարող է լողալ աջ և ձախ float:left  հատկության օգնությամբ:: Այսինքն, բլոկը իր բովանդակությամբ , կարող է լողալ աջ և ձախ փաստաթղթի պատուհանում:Որպեսզի տեքտը չլողա նկարից վերև, ապա CSS-ում պետք է գրել clear:both; կոդը:Background-color հատկությունը նկարագրում է Web-էջերի կամ էլեմենտների ֆոնի գույնը:Background-attachment  հատկությունը թույլատրում է ֆիկսել ֆոնային նկարը, որպեսզի այն չշարժվի Web էջի հետ միասին:
+<br># background-attachment: scroll; -  Ֆոնային  նկարը շարժվում է էջի հետ մեկտեղ<br>
+# background-attachment: fixed; - Ֆոնային նկարը ֆիկսվում է մեկ տեղում և էջի հետ միասին չի շարժվում
+<br>
+առաջադրանք1<br>
+<img src="arag/d5a1.1.JPG"> 
+<br>
+առաջադրանք2<br>
+<img src="arag/untitled.4.JPG" ><br>
+առաջադրանք3<br>
+<img src="arag/Orinak6.JPG"><br>
+առաջադրանք4<br>
+<img src="arag/d5a1.JPG"><br>
+</p>

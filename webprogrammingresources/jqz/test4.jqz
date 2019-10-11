@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>UNREGISTERED</dc:creator>
+    <dc:creator>NiTROUS</dc:creator>
+    <dc:title>4. &amp;#x0531;&amp;#x0572;&amp;#x0575;&amp;#x0578;&amp;#x0582;&amp;#x057D;&amp;#x0561;&amp;#x056F;&amp;#x0576;&amp;#x0565;&amp;#x0580;&amp;#x056B; &amp;#x057D;&amp;#x057F;&amp;#x0565;&amp;#x0572;&amp;#x056E;&amp;#x0578;&amp;#x0582;&amp;#x0574; , &amp;#x0570;&amp;#x0561;&amp;#x057F;&amp;#x0578;&amp;#x0582;&amp;#x056F; &amp;#x057D;&amp;#x056B;&amp;#x0574;&amp;#x057E;&amp;#x0578;&amp;#x056C;&amp;#x0576;&amp;#x0565;&amp;#x0580;&amp;#x056B; &amp;#x056F;&amp;#x056B;&amp;#x0580;&amp;#x0561;&amp;#x057C;&amp;#x0578;&amp;#x0582;&amp;#x0574;</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>4. &amp;#x0531;&amp;#x0572;&amp;#x0575;&amp;#x0578;&amp;#x0582;&amp;#x057D;&amp;#x0561;&amp;#x056F;&amp;#x0576;&amp;#x0565;&amp;#x0580;&amp;#x056B; &amp;#x057D;&amp;#x057F;&amp;#x0565;&amp;#x0572;&amp;#x056E;&amp;#x0578;&amp;#x0582;&amp;#x0574; , &amp;#x0570;&amp;#x0561;&amp;#x057F;&amp;#x0578;&amp;#x0582;&amp;#x056F; &amp;#x057D;&amp;#x056B;&amp;#x0574;&amp;#x057E;&amp;#x0578;&amp;#x056C;&amp;#x0576;&amp;#x0565;&amp;#x0580;&amp;#x056B; &amp;#x056F;&amp;#x056B;&amp;#x0580;&amp;#x0561;&amp;#x057C;&amp;#x0578;&amp;#x0582;&amp;#x0574;</title>
+
+<timer><seconds>120</seconds><include-timer>1</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>&amp;#x0531;&amp;#x0572;&amp;#x0575;&amp;#x0578;&amp;#x0582;&amp;#x057D;&amp;#x0561;&amp;#x056F;&amp;#x0576;&amp;#x0565;&amp;#x0580;&amp;#x056B; &amp;#x057D;&amp;#x0575;&amp;#x0578;&amp;#x0582;&amp;#x0576;&amp;#x0561;&amp;#x056F;&amp;#x0576;&amp;#x0565;&amp;#x0580;&amp;#x0568;  &amp;#x056F;&amp;#x0561;&amp;#x0580;&amp;#x0565;&amp;#x056C;&amp;#x056B; &amp;#x0567; &amp;#x057E;&amp;#x0565;&amp;#x0580;&amp;#x0576;&amp;#x0561;&amp;#x0563;&amp;#x0580;&amp;#x0565;&amp;#x056C; &amp;#x0561;&amp;#x0575;&amp;#x057D; &amp;#x057F;&amp;#x0565;&amp;#x0563;&amp;#x056B; &amp;#x0574;&amp;#x056B;&amp;#x057B;&amp;#x0578;&amp;#x0581;&amp;#x0578;&amp;#x057E;&amp;#x055D;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x0026;#60; table caption &amp;#x0026;#62; ...&amp;#x0026;#60; /caption&amp;#x0026;#62;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x0026;#60; th &amp;#x0026;#62; ...&amp;#x0026;#60; tr/ &amp;#x0026;#62;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x0026;#60; th &amp;#x0026;#62; ... &amp;#x0026;#60; /th &amp;#x0026;#62;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x0026;#60; table name &amp;#x0026;#62; ...&amp;#x0026;#60; / tr &amp;#x0026;#62;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>&amp;#x0026;#60; table &amp;#x0026;#62; &amp;#x057F;&amp;#x0565;&amp;#x0563;&amp;#x056B; &amp;#x0562;&amp;#x0576;&amp;#x0578;&amp;#x0580;&amp;#x0578;&amp;#x0577; &amp;#x0570;&amp;#x0561;&amp;#x057F;&amp;#x056F;&amp;#x0561;&amp;#x0576;&amp;#x056B;&amp;#x0577;&amp;#x0565;&amp;#x0580;&amp;#x056B;&amp;#x0581; &amp;#x0565;&amp;#x0576;&amp;#x055D;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x0026;#60; td &amp;#x0026;#62; &amp;#x0587; &amp;#x0026;#60; tr &amp;#x0026;#62; border</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x0026;#60; td &amp;#x0026;#62; &amp;#x0587; &amp;#x0026;#60; tr &amp;#x0026;#62;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>align, bgcolor, bordercolor, background</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>rowspan, align, &amp;#x0026;#60; th &amp;#x0026;#62; &amp;#x0587; &amp;#x0026;#60; tr &amp;#x0026;#62;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>&amp;#x0026;#60; td &amp;#x0026;#62;  &amp;#x0026;#60;th &amp;#x0026;#62; &amp;#x057F;&amp;#x0565;&amp;#x0563;&amp;#x0565;&amp;#x0580;&amp;#x056B;  &amp;#x0578;&amp;#x0580; &amp;#x0561;&amp;#x057F;&amp;#x0580;&amp;#x056B;&amp;#x0562;&amp;#x0578;&amp;#x0582;&amp;#x057F;&amp;#x0576;&amp;#x0565;&amp;#x0580;&amp;#x056B; &amp;#x0574;&amp;#x056B;&amp;#x057B;&amp;#x0578;&amp;#x0581;&amp;#x0578;&amp;#x057E; &amp;#x056F;&amp;#x0561;&amp;#x0580;&amp;#x0565;&amp;#x056C;&amp;#x056B; &amp;#x0567; &amp;#x0574;&amp;#x056B;&amp;#x0561;&amp;#x057E;&amp;#x0578;&amp;#x0580;&amp;#x0565;&amp;#x056C; &amp;#x0561;&amp;#x0572;&amp;#x0575;&amp;#x0578;&amp;#x0582;&amp;#x057D;&amp;#x0561;&amp;#x056F;&amp;#x056B; &amp;#x0562;&amp;#x057B;&amp;#x056B;&amp;#x057B;&amp;#x0576;&amp;#x0565;&amp;#x0580;&amp;#x0568; &amp;#x055D;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>merege, align</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>rowspan, colspan</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x0026;#60; &amp;#x0026;#62; &amp;#x0026;#60; /border &amp;#x0026;#62;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x0026;#60; tr &amp;#x0026;#62; &amp;#x0026;#60; \tr &amp;#x0026;#62;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>&amp;#x0026;#60; table &amp;#x0026;#62; &amp;#x057F;&amp;#x0565;&amp;#x0563;&amp;#x056B; &amp;#x057A;&amp;#x0561;&amp;#x0580;&amp;#x057F;&amp;#x0561;&amp;#x0564;&amp;#x056B;&amp;#x0580; &amp;#x0562;&amp;#x0576;&amp;#x0578;&amp;#x0580;&amp;#x0578;&amp;#x0577; &amp;#x0570;&amp;#x0561;&amp;#x057F;&amp;#x056F;&amp;#x0561;&amp;#x0576;&amp;#x056B;&amp;#x0577;&amp;#x0565;&amp;#x0580;&amp;#x0576; &amp;#x0565;&amp;#x0576;&amp;#x055D;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x0026;#60; th &amp;#x0026;#62; &amp;#x0587; &amp;#x0026;#60; tr &amp;#x0026;#62;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>rolspan, colspan  &amp;#x0026;#60; th &amp;#x0026;#62; &amp;#x0587; &amp;#x0026;#60; tr &amp;#x0026;#62;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x0026;#60; td &amp;#x0026;#62; &amp;#x0587; &amp;#x0026;#60; tr &amp;#x0026;#62; ,&amp;#x0026;#60; th &amp;#x0026;#62;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>width , border, cellspacing , cellpadding</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>&amp;#x0548;&amp;#x055E;&amp;#x0580; &amp;#x057F;&amp;#x0565;&amp;#x0563;&amp;#x0576; &amp;#x0567; &amp;#x0570;&amp;#x0561;&amp;#x0575;&amp;#x057F;&amp;#x0561;&amp;#x0580;&amp;#x0561;&amp;#x0580;&amp;#x0578;&amp;#x0582;&amp;#x0574; &amp;#x0561;&amp;#x0572;&amp;#x0575;&amp;#x0578;&amp;#x0582;&amp;#x057D;&amp;#x0561;&amp;#x056F;&amp;#x056B; &amp;#x0561;&amp;#x0576;&amp;#x0578;&amp;#x0582;&amp;#x0576;&amp;#x0568;:
+
+
+
+</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x0026;lt;caption&amp;#x0026;gt;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x0026;lt;td&amp;#x0026;gt;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x0026;lt;tr&amp;#x0026;gt;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x0026;lt;th&amp;#x0026;gt;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>&amp;#x0026;lt;table&amp;#x0026;gt; &amp;#x057F;&amp;#x0565;&amp;#x0563;&amp;#x0568; &amp;#x057D;&amp;#x057F;&amp;#x0565;&amp;#x0572;&amp;#x056E;&amp;#x0578;&amp;#x0582;&amp;#x0574; &amp;#x0567;.</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x0551;&amp;#x0578;&amp;#x0582;&amp;#x0581;&amp;#x0561;&amp;#x056F;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x0546;&amp;#x056F;&amp;#x0561;&amp;#x0580;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x0531;&amp;#x0572;&amp;#x0575;&amp;#x0578;&amp;#x0582;&amp;#x057D;&amp;#x0561;&amp;#x056F;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x054F;&amp;#x0565;&amp;#x0584;&amp;#x057D;&amp;#x057F;&amp;#x0561;&amp;#x0575;&amp;#x056B;&amp;#x0576; &amp;#x057F;&amp;#x056B;&amp;#x0580;&amp;#x0578;&amp;#x0582;&amp;#x0575;&amp;#x0569;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>&amp;#x054D;&amp;#x057F;&amp;#x0578;&amp;#x0580;&amp;#x0587; &amp;#x0576;&amp;#x0577;&amp;#x057E;&amp;#x0561;&amp;#x056E; &amp;#x0578;&amp;#x055E;&amp;#x0580; &amp;#x057F;&amp;#x0565;&amp;#x0563;&amp;#x0565;&amp;#x0580;&amp;#x056B;  &amp;#x0574;&amp;#x056B;&amp;#x057B;&amp;#x0578;&amp;#x0581;&amp;#x0578;&amp;#x057E; &amp;#x0565;&amp;#x0576; &amp;#x057D;&amp;#x057F;&amp;#x0565;&amp;#x0572;&amp;#x056E;&amp;#x057E;&amp;#x0578;&amp;#x0582;&amp;#x0574; &amp;#x0561;&amp;#x0572;&amp;#x0575;&amp;#x0578;&amp;#x0582;&amp;#x057D;&amp;#x0561;&amp;#x056F;&amp;#x0576;&amp;#x0565;&amp;#x0580;&amp;#x0568; &amp;#x055D;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x0026;#60; table &amp;#x0026;#62;  &amp;#x0026;#60;/table &amp;#x0026;#62;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x0026;#60; table &amp;#x0026;#62; &amp;#x0026;#60; \table &amp;#x0026;#62;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x0026;#60; table &amp;#x0026;#62; &amp;#x0026;#60; \tr &amp;#x0026;#62;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x0026;#60; table &amp;#x0026;#62; &amp;#x0026;#60; /border &amp;#x0026;#62;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>&amp;#x0548;&amp;#x0580;&amp;#x0578;&amp;#x055E;&amp;#x0576;&amp;#x0584; &amp;#x0565;&amp;#x0576; &amp;#x0026;lt;table&amp;#x0026;gt; &amp;#x057F;&amp;#x0565;&amp;#x0563;&amp;#x056B; &amp;#x0561;&amp;#x0580;&amp;#x057F;&amp;#x0580;&amp;#x056B;&amp;#x0562;&amp;#x0578;&amp;#x0582;&amp;#x057F;&amp;#x0576;&amp;#x0565;&amp;#x0580;.</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>border, rules</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>align, width</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>color, src</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>target, name</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle>&amp;#x0533;&amp;#x056B;&amp;#x057F;&amp;#x0565;&amp;#x056C;&amp;#x056B;&amp;#x0584;&amp;#x0576;&amp;#x0565;&amp;#x0580;&amp;#x056B; &amp;#x057D;&amp;#x057F;&amp;#x0578;&amp;#x0582;&amp;#x0563;&amp;#x0561;&amp;#x057F;&amp;#x0565;&amp;#x057D;</exercise-subtitle>
+<instructions>&amp;#x053E;&amp;#x0580;&amp;#x0561;&amp;#x0563;&amp;#x0580;&amp;#x056B; &amp;#x0532;&amp;#x0561;&amp;#x0581;&amp;#x0561;&amp;#x057F;&amp;#x0580;&amp;#x0578;&amp;#x0582;&amp;#x0569;&amp;#x0575;&amp;#x0578;&amp;#x0582;&amp;#x0576;&amp;#x0568;</instructions>
+<guess-correct> </guess-correct>
+<guess-incorrect> </guess-incorrect>
+<partly-incorrect> </partly-incorrect>
+<enter-a-guess></enter-a-guess>
+<next-correct-letter> </next-correct-letter>
+<correct-answers>&amp;#x0543;&amp;#x056B;&amp;#x0577;&amp;#x057F; &amp;#x057A;&amp;#x0561;&amp;#x057F;&amp;#x0561;&amp;#x057D;&amp;#x056D;&amp;#x0561;&amp;#x0576;&amp;#x0576;&amp;#x0565;&amp;#x0580;</correct-answers>
+<show-answer-caption>&amp;#x0551;&amp;#x0578;&amp;#x0582;&amp;#x0575;&amp;#x0581; &amp;#x057F;&amp;#x0561;&amp;#x056C; &amp;#x057A;&amp;#x0561;&amp;#x057F;&amp;#x0561;&amp;#x057D;&amp;#x056D;&amp;#x0561;&amp;#x0576;&amp;#x0568;</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>0</continuous-scoring>
+<show-correct-first-time>0</show-correct-first-time>
+<shuffle-questions>1</shuffle-questions>
+<shuffle-answers>1</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>1</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>&amp;#x0541;&amp;#x0565;&amp;#x0580; &amp;#x057E;&amp;#x0561;&amp;#x057D;&amp;#x057F;&amp;#x0561;&amp;#x056F;&amp;#x0561;&amp;#x056E; &amp;#x0574;&amp;#x056B;&amp;#x0561;&amp;#x057E;&amp;#x0578;&amp;#x0580;&amp;#x0576; &amp;#x0567;`</your-score-is>
+<correct-indicator> </correct-indicator>
+<incorrect-indicator> </incorrect-indicator>
+<correct-first-time> </correct-first-time>
+<completed-so-far>&amp;#x0540;&amp;#x0561;&amp;#x0580;&amp;#x0581;&amp;#x0565;&amp;#x0580;&amp;#x0576; &amp;#x0561;&amp;#x057E;&amp;#x0561;&amp;#x0580;&amp;#x057F;&amp;#x057E;&amp;#x0565;&amp;#x0581;&amp;#x056B;&amp;#x0576;</completed-so-far>
+<exercise-completed>&amp;#x0534;&amp;#x0578;&amp;#x0582; &amp;#x0561;&amp;#x057E;&amp;#x0561;&amp;#x0580;&amp;#x057F;&amp;#x0565;&amp;#x056C; &amp;#x0565;&amp;#x057D; &amp;#x0570;&amp;#x0561;&amp;#x0580;&amp;#x0581;&amp;#x0561;&amp;#x0577;&amp;#x0561;&amp;#x0580;&amp;#x0568;</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>&amp;#x0541;&amp;#x0565;&amp;#x0580; &amp;#x056A;&amp;#x0561;&amp;#x0574;&amp;#x0561;&amp;#x0576;&amp;#x0561;&amp;#x056F;&amp;#x0568; &amp;#x057D;&amp;#x057A;&amp;#x0561;&amp;#x057C;&amp;#x057E;&amp;#x0565;&amp;#x0581;</times-up>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>0</include-contents>
+<include-back>0</include-back>
+<contents-url>contents.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Sylfaen,Geneva,Arial,sans-serif</font-face>
+<font-size>small</font-size>
+<page-bg-color>#f6f6f6</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#ffffff</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#000080</link-color>
+<vlink-color>#000080</vlink-color>
+<nav-bar-color>#ffffff</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>edelnush@rambler.ru</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>  [strUserDefined1]</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code>&amp;#x003C;head&amp;#x003E;</header-code>
+<correct-first-time> </correct-first-time>
+<check-caption>&amp;#x054D;&amp;#x057F;&amp;#x0578;&amp;#x0582;&amp;#x0563;&amp;#x0565;&amp;#x056C;</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x0540;&amp;#x0561;&amp;#x057B;&amp;#x0578;&amp;#x0580;&amp;#x0564; =&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;= &amp;#x0546;&amp;#x0561;&amp;#x056D;&amp;#x0578;&amp;#x0580;&amp;#x0564;</last-q-caption>
+<hint-caption>Hint</hint-caption>
+<show-all-questions-caption>&amp;#x0534;&amp;#x0578;&amp;#x0582;&amp;#x0580;&amp;#x057D; &amp;#x0562;&amp;#x0565;&amp;#x0580;&amp;#x0565;&amp;#x056C; &amp;#x0570;&amp;#x0561;&amp;#x0580;&amp;#x0581;&amp;#x0565;&amp;#x0580;&amp;#x0568;</show-all-questions-caption>
+<show-one-by-one-caption>&amp;#x0540;&amp;#x0561;&amp;#x0580;&amp;#x0581;&amp;#x0565;&amp;#x0580;&amp;#x0568; &amp;#x0564;&amp;#x0578;&amp;#x0582;&amp;#x0580;&amp;#x057D; &amp;#x0562;&amp;#x0565;&amp;#x0580;&amp;#x0565;&amp;#x056C; &amp;#x0570;&amp;#x0565;&amp;#x0580;&amp;#x0569;&amp;#x0561;&amp;#x056F;&amp;#x0561;&amp;#x0576;&amp;#x0578;&amp;#x0582;&amp;#x0569;&amp;#x0575;&amp;#x0561;&amp;#x0574;&amp;#x0562;</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
