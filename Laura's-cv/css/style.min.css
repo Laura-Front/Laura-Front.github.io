@@ -1,7 +1,10 @@
 @media screen and (min-width: 768px) {
-    .navbar__link:not(.active):hover:before {
-        height: 100%;
-        opacity: 1
+    .navbar__link:not(.active):hover:after {
+        width: 100%;
+    }
+    .navbar__link:not(.active):hover{
+        background-color: #000000;
+        color: #ffffff;
     }
 
     .cv-card__avatar:hover img {
@@ -42,8 +45,8 @@
     }
 
     button.burger:hover {
-        background-color: #c0e3e7;
-        border-color: #c0e3e7
+        background-color: #000000;
+        border-color: #000000;
     }
 
     button.burger:hover .burger-icon {
@@ -7947,7 +7950,7 @@ body {
     margin: 0 auto;
     font-size: 16px;
     color: #010101;
-    background-color: #f3f3f3
+    background-color: #fcfcfc;
 }
 
 .fb, b, strong {
@@ -8005,17 +8008,16 @@ footer a.social__link {
 
 .burger {
     background-color: transparent;
-    border: 1px solid black;
     border-radius: 3px;
     cursor: pointer;
     height: 37px;
-    right: 30px;
+    right: 10px;
     padding: 7px;
     position: absolute;
-    top: 30px;
+    top: 28px;
     width: 46px;
     z-index: 15;
-    outline: 0
+    outline: 0;
 }
 
 .burger-icon {
@@ -8062,7 +8064,8 @@ footer a.social__link {
 
 .logo {
     display: block;
-    width: 140px
+    width: 200px;
+    margin-top: 8px;
 }
 
 .navbar__list {
@@ -8072,34 +8075,42 @@ footer a.social__link {
 
 .navbar__link {
     color: #010101;
-    padding: 5px 10px;
+    padding: 2px 10px;
     display: inline-block;
-    position: relative
+    position: relative;
+
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+    box-sizing: border-box;
 }
 
-.navbar__link:before {
+.navbar__link:after {
     content: '';
-    top: 0;
+    bottom: -7px;
     left: 0;
-    border-left: 2px solid #363636;
-    display: block;
+    right: 0;
+    margin: 0 auto;
     position: absolute;
-    height: 0;
-    -webkit-transition: width .5s ease, height .5s ease, opacity .5s ease;
-    -moz-transition: width .5s ease, height .5s ease, opacity .5s ease;
-    -o-transition: width .5s ease, height .5s ease, opacity .5s ease;
-    transition: width .5s ease, height .5s ease, opacity .5s ease;
+    height: 2px;
+    width: 0;
+    background-color: #000000;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
     box-sizing: border-box;
-    opacity: 0
 }
 
 .navbar__link.active {
-    cursor: default
+    cursor: default;
+    background-color: #000;
+    color: #fff;
 }
 
-.navbar__link.active:before {
-    height: 100%;
-    opacity: 1
+.navbar__link.active:after {
+    width: 100%;
 }
 
 .container-left {
@@ -8248,6 +8259,14 @@ footer a.social__link {
     letter-spacing: .08em;
 }
 
+.text-title {
+    line-height: 1.875em;
+    letter-spacing: .08em;
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
 .title-second {
     margin-bottom: 30px;
     color: #757575;
@@ -8293,6 +8312,7 @@ footer a.social__link {
 }
 
 .education-list li {
+    margin-top: 20px;
     margin-bottom: 20px;
     padding-left: 20px
 }
@@ -8458,6 +8478,12 @@ footer a.social__link {
 
 .certificate-list li {
     margin-bottom: 10px
+}
+
+.certificate-item:not(:last-child) {
+    border-bottom: 1px solid #dddddd;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 .experience {
@@ -8757,7 +8783,7 @@ footer a.social__link {
 
 .experience-logo {
     border-radius: 10px;
-    width: 50px
+    width: 70px
 }
 
 @media only screen and (min-width: 768px) {
@@ -8989,5 +9015,9 @@ footer a.social__link {
         padding-left: 0;
         text-align: left;
         margin-bottom: 20px
+    }
+    .logo {
+        width: 190px;
+        margin-top: 10px;
     }
 }
